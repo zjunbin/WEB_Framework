@@ -1,0 +1,9 @@
+#  coding utf-8
+# @time      :2019/4/2410:06
+# @Author    :zjunbin
+# @Email     :648060307@qq.com
+# @File      :common_data.py
+login_url = 'http://114.113.237.69:55000/'
+username = '888888'
+pwd = '123456'
+code = '123456'
